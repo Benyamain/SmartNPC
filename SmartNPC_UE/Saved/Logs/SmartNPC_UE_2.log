@@ -1,0 +1,866 @@
+﻿Log file open, 08/07/23 12:32:51
+LogInit: Display: Running engine for game: SmartNPC_UE
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.194262
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin RuntimeFilesDownloader
+LogPluginManager: Mounting plugin VaRest
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=AchieverBY -epicuserid=a56fffad34964f85b76a2086c5dc5626 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogLinker: AddRedirectList(C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/VaRest.ini) has substring redirect /VaRestPlugin/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Engine.ini]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Engine.ini]
+[2023.08.07-16.32.51:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Engine.ini]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Engine.ini]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.08.07-16.32.51:729][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.08.07-16.32.51:730][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Engine.ini]
+[2023.08.07-16.32.51:730][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Engine.ini]
+[2023.08.07-16.32.51:735][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.08.07-16.32.51:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2023.08.07-16.32.51:736][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2023.08.07-16.32.51:736][  0]LogInit: Selected Device Profile: [Windows]
+[2023.08.07-16.32.51:736][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.08.07-16.32.51:736][  0]LogHAL: Display: Platform has ~ 32 GB [34272178176 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.08.07-16.32.51:736][  0]LogInit: Going up to parent DeviceProfile []
+[2023.08.07-16.32.51:737][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.08.07-16.32.51:737][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Scalability.ini]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.08.07-16.32.51:738][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Config/Windows/Engine.ini]
+[2023.08.07-16.32.51:739][  0]LogInit: Computer: DESKTOP-OGKUSJC
+[2023.08.07-16.32.51:739][  0]LogInit: User: benj
+[2023.08.07-16.32.51:739][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.08.07-16.32.51:739][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.08.07-16.32.51:739][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.08.07-16.32.51:739][  0]LogMemory: Platform Memory Stats for Windows
+[2023.08.07-16.32.51:739][  0]LogMemory: Process Physical Memory: 119.04 MB used, 119.04 MB peak
+[2023.08.07-16.32.51:739][  0]LogMemory: Process Virtual Memory: 97.12 MB used, 97.12 MB peak
+[2023.08.07-16.32.51:739][  0]LogMemory: Physical Memory: 12967.79 MB used,  19716.70 MB free, 32684.50 MB total
+[2023.08.07-16.32.51:739][  0]LogMemory: Virtual Memory: 5167.72 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2023.08.07-16.32.51:743][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.08.07-16.32.51:795][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.08.07-16.32.51:796][  0]LogInit: Using OS detected language (en-US).
+[2023.08.07-16.32.51:796][  0]LogInit: Using OS detected locale (en-US).
+[2023.08.07-16.32.51:799][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.08.07-16.32.51:950][  0]LogInit: Setting process to per monitor DPI aware
+[2023.08.07-16.32.51:991][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.08.07-16.32.51:991][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.08.07-16.32.52:137][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.08.07-16.32.52:137][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.08.07-16.32.52:137][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.08.07-16.32.52:137][  0]LogD3D11RHI: D3D11 adapters:
+[2023.08.07-16.32.52:294][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2023.08.07-16.32.52:294][  0]LogD3D11RHI:       8072/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.08.07-16.32.52:297][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.08.07-16.32.52:297][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.08.07-16.32.52:297][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.08.07-16.32.52:303][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.08.07-16.32.52:304][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2023.08.07-16.32.52:304][  0]LogWindows: EnumDisplayDevices:
+[2023.08.07-16.32.52:304][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2023.08.07-16.32.52:304][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2023.08.07-16.32.52:304][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.08.07-16.32.52:305][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2023.08.07-16.32.52:305][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.08.07-16.32.52:305][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2023.08.07-16.32.52:305][  0]LogD3D11RHI:   Driver Version: 536.25 (internal:31.0.15.3625, unified:536.25)
+[2023.08.07-16.32.52:305][  0]LogD3D11RHI:      Driver Date: 6-10-2023
+[2023.08.07-16.32.52:305][  0]LogRHI: Texture pool is 5650 MB (70% of 8072 MB)
+[2023.08.07-16.32.52:395][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.08.07-16.32.52:395][  0]LogD3D11RHI: Async texture creation enabled
+[2023.08.07-16.32.52:395][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.08.07-16.32.52:419][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.08.07-16.32.52:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.08.07-16.32.52:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.08.07-16.32.52:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.08.07-16.32.52:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.08.07-16.32.52:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.08.07-16.32.52:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.08.07-16.32.52:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.08.07-16.32.52:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.08.07-16.32.52:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.08.07-16.32.52:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.08.07-16.32.52:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.08.07-16.32.52:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.08.07-16.32.52:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.08.07-16.32.52:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.08.07-16.32.52:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.08.07-16.32.52:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.08.07-16.32.52:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.08.07-16.32.52:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.08.07-16.32.52:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.08.07-16.32.52:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.08.07-16.32.52:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.08.07-16.32.52:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.08.07-16.32.52:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.08.07-16.32.52:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.08.07-16.32.52:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.08.07-16.32.52:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.08.07-16.32.52:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.08.07-16.32.52:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.08.07-16.32.52:890][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.08.07-16.32.52:897][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.08.07-16.32.52:947][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Intermediate/Shaders/WorkingDirectory/19528/).
+[2023.08.07-16.32.52:947][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/benj/AppData/Local/Temp/UnrealShaderWorkingDir/312C6A9E47BCEE3E62AD32A3A82DD0FC/'.
+[2023.08.07-16.32.52:948][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.08.07-16.32.52:948][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.08.07-16.32.52:948][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.08.07-16.32.53:587][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.08.07-16.32.53:631][  0]LogDerivedDataCache: Loaded boot cache 0.04s 75MB C:/Users/benj/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2023.08.07-16.32.53:631][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/benj/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2023.08.07-16.32.53:631][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/benj/SmartNPC/SmartNPC_UE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.08.07-16.32.53:631][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.08.07-16.32.53:631][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/benj/SmartNPC/SmartNPC_UE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.08.07-16.32.53:631][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.08.07-16.32.53:639][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.08.07-16.32.53:639][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.08.07-16.32.53:639][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.08.07-16.32.53:640][  0]LogDerivedDataCache: Using Local data cache path C:/Users/benj/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.08.07-16.32.53:640][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.08.07-16.32.53:640][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.08.07-16.32.53:683][  0]LogSlate: Using FreeType 2.10.0
+[2023.08.07-16.32.53:683][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.08.07-16.32.53:707][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2023.08.07-16.32.53:892][  0]LogInit: Selected Device Profile: [Windows]
+[2023.08.07-16.32.53:987][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.08.07-16.32.53:987][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.08.07-16.32.53:987][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.08.07-16.32.53:987][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.08.07-16.32.53:987][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.08.07-16.32.54:005][  0]LogNetVersion: SmartNPC_UE 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3004968975)
+[2023.08.07-16.32.54:373][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000022E446C4380), frame # 0
+[2023.08.07-16.32.54:373][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E445EBC40), frame # 0
+[2023.08.07-16.32.54:374][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E44645E00), frame # 0
+[2023.08.07-16.32.54:423][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.042933 seconds
+[2023.08.07-16.32.54:427][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2023.08.07-16.32.54:427][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2023.08.07-16.32.54:427][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.08.07-16.32.54:712][  0]LogVaRest: FVaRestModule::StartupModule(27): VaRest (1.1-r30) module started
+[2023.08.07-16.32.54:719][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.08.07-16.32.54:723][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.08.07-16.32.54:785][  0]SourceControl: Source control is disabled
+[2023.08.07-16.32.54:785][  0]SourceControl: Source control is disabled
+[2023.08.07-16.32.54:788][  0]SourceControl: Source control is disabled
+[2023.08.07-16.32.54:791][  0]SourceControl: Source control is disabled
+[2023.08.07-16.32.54:797][  0]SourceControl: Source control is disabled
+[2023.08.07-16.32.55:026][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.08.07-16.32.55:042][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.08.07-16.32.55:042][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.08.07-16.32.55:086][  0]LogOcInput: OculusInput pre-init called
+[2023.08.07-16.32.55:098][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.08.07-16.32.55:098][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.08.07-16.32.55:165][  0]LogEngine: Initializing Engine...
+[2023.08.07-16.32.55:166][  0]LogVaRest: UVaRestSubsystem::Initialize(23): VaRest subsystem initialized
+[2023.08.07-16.32.55:166][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.08.07-16.32.55:166][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.08.07-16.32.55:167][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.08.07-16.32.55:291][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.08.07-16.32.55:298][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.08.07-16.32.55:298][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E477DFC00), frame # 0
+[2023.08.07-16.32.55:298][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E47816840), frame # 0
+[2023.08.07-16.32.55:315][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.07-16.32.55:315][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.07-16.32.55:315][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.07-16.32.55:315][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.07-16.32.55:315][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.07-16.32.55:315][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.07-16.32.55:315][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.07-16.32.55:315][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.07-16.32.55:316][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.07-16.32.55:316][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.07-16.32.55:331][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.07-16.32.55:331][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.08.07-16.32.55:360][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (2- Astro MixAmp Pro Voice)
+[2023.08.07-16.32.55:363][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.07-16.32.55:365][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.07-16.32.55:365][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.07-16.32.55:366][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.07-16.32.55:369][  0]LogInit: FAudioDevice initialized.
+[2023.08.07-16.32.55:369][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.08.07-16.32.55:410][  0]LogDerivedDataCache: Saved boot cache 0.04s 75MB C:/Users/benj/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2023.08.07-16.32.55:411][  0]LogInit: Texture streaming: Enabled
+[2023.08.07-16.32.55:429][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.08.07-16.32.55:429][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.08.07-16.32.55:442][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.08.07-16.32.55:472][  0]LogInit: Transaction tracking system initialized
+[2023.08.07-16.32.55:491][  0]BlueprintLog: New page: Editor Load
+[2023.08.07-16.32.55:550][  0]LocalizationService: Localization service is disabled
+[2023.08.07-16.32.55:678][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.08.07-16.32.55:678][  0]LogCook: Display: Mobile HDR setting 1
+[2023.08.07-16.32.55:785][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benj/SmartNPC/SmartNPC_UE/Content/' took 0.00s
+[2023.08.07-16.32.55:972][  0]SourceControl: Source control is disabled
+[2023.08.07-16.32.55:972][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.641
+[2023.08.07-16.32.55:972][  0]Cmd: MAP LOAD FILE="../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.08.07-16.32.55:972][  0]LightingResults: New page: Lighting Build
+[2023.08.07-16.32.55:973][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.08.07-16.32.55:973][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.07-16.32.55:973][  0]MapCheck: New page: Map Check
+[2023.08.07-16.32.55:973][  0]LightingResults: New page: Lighting Build
+[2023.08.07-16.32.55:983][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E477DFC00), frame # 0
+[2023.08.07-16.32.55:983][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E47816840), frame # 0
+[2023.08.07-16.32.55:984][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.08.07-16.32.56:101][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.08.07-16.32.56:101][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E376D7000), frame # 0
+[2023.08.07-16.32.56:101][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E376E9BC0), frame # 0
+[2023.08.07-16.32.56:105][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.08.07-16.32.56:115][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.08.07-16.32.56:116][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.08.07-16.32.56:116][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2023.08.07-16.32.56:116][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.144
+[2023.08.07-16.32.56:117][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.786
+[2023.08.07-16.32.56:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.07-16.32.56:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.07-16.32.56:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.07-16.32.56:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.07-16.32.56:273][  0]LogCollectionManager: Loaded 0 collections in 0.001544 seconds
+[2023.08.07-16.32.56:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benj/SmartNPC/SmartNPC_UE/Saved/Collections/' took 0.00s
+[2023.08.07-16.32.56:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benj/SmartNPC/SmartNPC_UE/Content/Developers/benj/Collections/' took 0.00s
+[2023.08.07-16.32.56:285][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benj/SmartNPC/SmartNPC_UE/Content/Collections/' took 0.00s
+[2023.08.07-16.32.56:285][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3438 classes and 829 folders.
+[2023.08.07-16.32.56:287][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.08.07-16.32.56:334][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.08.07-16.32.56:335][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.08.07-16.32.56:422][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.08.07-16.32.56:425][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.08.07-16.32.56:430][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.08.07-16.32.56:512][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2023.08.07-16.32.56:697][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.08.07-16.32.56:697][  0]LogLoad: (Engine Initialization) Total time: 6.37 seconds
+[2023.08.07-16.32.56:697][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.08.07-16.32.56:734][  0]LogAssetRegistry: Asset discovery search completed in 3.0279 seconds
+[2023.08.07-16.32.56:737][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.08.07-16.32.56:738][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.08.07-16.32.56:748][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.08.07-16.33.42:751][823]LogSlate: Window 'Plugins' being destroyed
+[2023.08.07-16.33.42:757][823]LogSlate: Window 'Plugins' being destroyed
+[2023.08.07-16.33.42:757][823]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.08.07-16.33.49:887][650]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.08.07-16.33.51:961][887]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2023.08.07-16.33.52:153][887]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2023.08.07-16.33.52:860][887]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.08.07-16.33.57:547][429]LogSlate: Window 'Minimal_Default' being destroyed
+[2023.08.07-16.34.53:732][393]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.07-16.34.57:145][800]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2023.08.07-16.34.57:146][800]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2023.08.07-16.34.58:974][ 19]LogUObjectGlobals: Warning: Failed to find object 'Object None.MyBlueprintPanel'
+[2023.08.07-16.35.02:391][426]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2023.08.07-16.35.15:327][962]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.07-16.35.15:332][962]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.07-16.35.55:983][583]LogSlate: Took 0.001935 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.08.07-16.36.41:440][243]LogSlate: Took 0.000478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.08.07-16.43.35:579][957]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.07-16.43.35:618][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.08.07-16.43.37:460][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.08.07-16.43.37:479][166]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default91D31B454677D5DFA935A0B718CF190E.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.43.37:490][166]LogFileHelpers: Saving map 'Minimal_Default' took 0.050
+[2023.08.07-16.43.37:509][166]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.43.37:509][166]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.43.38:706][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-16.43.38:726][300]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultBD730E2E44BE15E14C9D80B36CCC6A6A.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.43.38:736][300]LogFileHelpers: Saving map 'Minimal_Default' took 0.047
+[2023.08.07-16.43.38:752][300]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.43.38:753][300]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.43.39:575][396]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.07-16.43.39:602][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.08.07-16.43.40:767][534]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.07-16.43.40:796][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.08.07-16.43.41:457][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.08.07-16.43.41:475][608]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultDE80D9A4478749DCBE156A9449047723.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.43.41:485][608]LogFileHelpers: Saving map 'Minimal_Default' took 0.047
+[2023.08.07-16.43.41:501][608]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.43.41:501][608]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.45.26:907][349]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.07-16.45.26:935][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.08.07-16.45.27:804][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.08.07-16.45.27:822][445]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default4EB0D0C5488952CE7DDB9982A8001583.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.45.27:832][445]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.08.07-16.45.27:848][445]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.45.27:848][445]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.48.00:704][593]LogEditorTransaction: Undo Move Node
+[2023.08.07-16.48.01:066][604]LogEditorTransaction: Undo Move Node
+[2023.08.07-16.48.02:340][743]LogEditorTransaction: Undo Move Node
+[2023.08.07-16.48.03:182][841]LogEditorTransaction: Undo Move Node
+[2023.08.07-16.48.03:537][882]LogEditorTransaction: Undo Move Node
+[2023.08.07-16.48.03:885][923]LogEditorTransaction: Undo Move Node
+[2023.08.07-16.48.04:191][959]LogEditorTransaction: Undo Move Node
+[2023.08.07-16.48.12:805][991]LogEditorTransaction: Redo Move Node
+[2023.08.07-16.48.13:983][131]LogEditorTransaction: Redo Move Node
+[2023.08.07-16.48.14:131][148]LogEditorTransaction: Redo Move Node
+[2023.08.07-16.48.14:362][175]LogEditorTransaction: Redo Move Node
+[2023.08.07-16.48.14:484][189]LogEditorTransaction: Redo Move Node
+[2023.08.07-16.48.14:590][201]LogEditorTransaction: Redo Move Node
+[2023.08.07-16.48.14:690][212]LogEditorTransaction: Redo Move Node
+[2023.08.07-16.54.59:404][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.08.07-16.54.59:435][119]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultC0C5A021488D855033493FB7494BB89E.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.54.59:445][119]LogFileHelpers: Saving map 'Minimal_Default' took 0.063
+[2023.08.07-16.54.59:464][119]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.54.59:464][119]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.54.59:563][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.07-16.54.59:583][126]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default31F66FEF43A86A6CEFC8BA98EBBF819F.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.54.59:592][126]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.08.07-16.54.59:609][126]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.54.59:609][126]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.00:515][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-16.55.00:535][230]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default1933432B47EB164EB1819494EA98784B.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.00:544][230]LogFileHelpers: Saving map 'Minimal_Default' took 0.047
+[2023.08.07-16.55.00:560][230]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.00:560][230]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.01:029][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-16.55.01:049][282]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default663E0DBC474CBC966CAC92B1D969CFCA.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.01:058][282]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.08.07-16.55.01:074][282]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.01:074][282]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.01:478][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.07-16.55.01:498][326]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default98E21D2749870DF90BCA11994E89AC10.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.01:507][326]LogFileHelpers: Saving map 'Minimal_Default' took 0.045
+[2023.08.07-16.55.01:517][326]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.01:517][326]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.01:646][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-16.55.01:665][337]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default78303B144B0946A3DE261495CD6238A3.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.01:675][337]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.08.07-16.55.01:692][337]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.01:692][337]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.01:812][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-16.55.01:832][347]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default36AF172A41708BAA7BFF32A5D477551F.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.01:841][347]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.08.07-16.55.01:850][347]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.01:850][347]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.01:978][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.07-16.55.01:997][359]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default73D6566F4004EEA4FA98DE922830379F.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.02:006][359]LogFileHelpers: Saving map 'Minimal_Default' took 0.045
+[2023.08.07-16.55.02:024][359]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.02:024][359]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.02:163][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.07-16.55.02:182][371]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultD42A7F7F43B7E26BA82199BB9B8E3054.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.02:191][371]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.08.07-16.55.02:200][371]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.02:200][371]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.02:645][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.07-16.55.02:665][420]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default677AFA964B5D3F83346225958863CBBA.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.02:674][420]LogFileHelpers: Saving map 'Minimal_Default' took 0.045
+[2023.08.07-16.55.02:683][420]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.02:684][420]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.02:829][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-16.55.02:849][433]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default06A7661E4131B9DEB7973AA11101E732.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.02:858][433]LogFileHelpers: Saving map 'Minimal_Default' took 0.045
+[2023.08.07-16.55.02:875][433]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.02:875][433]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.09:248][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.07-16.55.09:267][181]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultD5C31BE04FBA8E56DFB983B9F108234C.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.09:277][181]LogFileHelpers: Saving map 'Minimal_Default' took 0.045
+[2023.08.07-16.55.09:293][181]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.09:293][181]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.09:412][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-16.55.09:431][191]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default1FB0F58146E56018DD50A7AD31346DC1.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.09:440][191]LogFileHelpers: Saving map 'Minimal_Default' took 0.045
+[2023.08.07-16.55.09:449][191]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.09:449][191]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.09:562][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.07-16.55.09:582][201]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultFCFB97DF41FD2A4BB2A1E18B84168936.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.09:591][201]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.08.07-16.55.09:608][201]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.09:609][201]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.09:728][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.07-16.55.09:747][212]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default2A07907347B2A8C0B7D31B86FF66529C.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.09:756][212]LogFileHelpers: Saving map 'Minimal_Default' took 0.045
+[2023.08.07-16.55.09:765][212]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.09:765][212]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.10:148][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-16.55.10:167][254]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultA8389CF9467699DD0D71EA8DBDC7F44B.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.10:176][254]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.08.07-16.55.10:193][254]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.10:193][254]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.10:580][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.08.07-16.55.10:599][295]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultEB5DFB1145D0A1DD8A982BBD9042BAAC.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.10:608][295]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.08.07-16.55.10:625][295]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.10:625][295]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.10:996][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.07-16.55.11:016][336]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultAAB83BD34B9FBEEBC1B93484F254C492.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.11:025][336]LogFileHelpers: Saving map 'Minimal_Default' took 0.046
+[2023.08.07-16.55.11:035][336]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.11:035][336]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-16.55.11:362][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-16.55.11:382][371]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default6DDF83034B775123AE554097A945E1C2.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-16.55.11:391][371]LogFileHelpers: Saving map 'Minimal_Default' took 0.045
+[2023.08.07-16.55.11:408][371]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-16.55.11:408][371]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-17.06.13:409][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.08.07-17.06.13:432][499]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultBD121972494340D736CB15B3F0A9895B.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-17.06.13:442][499]LogFileHelpers: Saving map 'Minimal_Default' took 0.051
+[2023.08.07-17.06.13:453][499]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-17.06.13:453][499]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-17.07.03:401][462]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.07-17.07.28:199][548]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.07-17.12.56:185][418]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.07-17.13.14:137][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.08.07-17.13.14:163][530]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultD93B5F1040D611942CF9DB8FADD68C1B.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-17.13.14:173][530]LogFileHelpers: Saving map 'Minimal_Default' took 0.056
+[2023.08.07-17.13.14:183][530]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-17.13.14:184][530]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-17.13.15:267][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.07-17.13.15:291][646]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default85DCC8D74EAA6C08FF8273A5A759BF57.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-17.13.15:300][646]LogFileHelpers: Saving map 'Minimal_Default' took 0.050
+[2023.08.07-17.13.15:317][646]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-17.13.15:317][646]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-17.13.16:097][738]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.07-17.13.16:128][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.08.07-17.13.17:025][842]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.07-17.13.17:058][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.08.07-17.13.17:524][895]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.07-17.13.17:556][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.08.07-17.13.17:779][919]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.07-17.13.17:808][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.08.07-17.13.17:948][933]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.07-17.13.17:978][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.08.07-17.13.18:800][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.08.07-17.13.18:825][ 15]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultAF09CC7541CAE75E65037C989C5B06BA.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-17.13.18:835][ 15]LogFileHelpers: Saving map 'Minimal_Default' took 0.052
+[2023.08.07-17.13.18:852][ 15]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-17.13.18:852][ 15]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-17.13.39:765][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.08.07-17.13.39:789][583]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default0DD9F9D5491E3B7778D439A930966E2D.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-17.13.39:799][583]LogFileHelpers: Saving map 'Minimal_Default' took 0.050
+[2023.08.07-17.13.39:815][583]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-17.13.39:815][583]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-17.13.40:532][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.07-17.13.40:561][665]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default67F637DB463836113B39B8938EB8310D.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-17.13.40:576][665]LogFileHelpers: Saving map 'Minimal_Default' took 0.061
+[2023.08.07-17.13.40:596][665]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-17.13.40:597][665]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-17.13.40:966][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.07-17.13.40:990][704]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default949C56CD4E1D87F5E8CCC187A000A7C8.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-17.13.41:000][704]LogFileHelpers: Saving map 'Minimal_Default' took 0.051
+[2023.08.07-17.13.41:009][704]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-17.13.41:009][704]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-17.13.41:148][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-17.13.41:173][716]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default747F15F247A61336C3735FA401996630.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-17.13.41:182][716]LogFileHelpers: Saving map 'Minimal_Default' took 0.050
+[2023.08.07-17.13.41:198][716]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-17.13.41:198][716]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.07-17.13.41:348][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.07-17.13.41:373][729]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultC3BA0EB04F78833C1C47B2BAE1FED85E.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.07-17.13.41:382][729]LogFileHelpers: Saving map 'Minimal_Default' took 0.050
+[2023.08.07-17.13.41:398][729]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.07-17.13.41:398][729]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
