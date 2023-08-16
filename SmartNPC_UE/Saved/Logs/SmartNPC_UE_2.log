@@ -1282,3 +1282,1461 @@ JSON(
 [2023.08.16-21.37.40:345][251]LogFileHelpers: Saving map 'Minimal_Default' took 0.079
 [2023.08.16-21.37.40:357][251]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.08.16-21.37.40:357][251]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.40.22:921][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.08.16-21.40.22:954][606]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default4240D0744E9B309533B6E193D3366FD6.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.40.22:964][606]LogFileHelpers: Saving map 'Minimal_Default' took 0.065
+[2023.08.16-21.40.22:975][606]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.40.22:975][606]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.53.44:073][333]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.08.16-21.53.59:193][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.08.16-21.53.59:231][988]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default0BC7FAD5488E05E5AF2E45873BFD2EA2.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.53.59:242][988]LogFileHelpers: Saving map 'Minimal_Default' took 0.071
+[2023.08.16-21.53.59:254][988]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.53.59:254][988]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.54.03:343][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.08.16-21.54.03:376][472]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default73CC56DE426723B28EA78E8A287DB1B3.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.54.03:387][472]LogFileHelpers: Saving map 'Minimal_Default' took 0.066
+[2023.08.16-21.54.03:400][472]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.54.03:400][472]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.54.04:674][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.16-21.54.04:706][609]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default7BFC8AB6422501E75B07F2AEECE01817.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.54.04:716][609]LogFileHelpers: Saving map 'Minimal_Default' took 0.063
+[2023.08.16-21.54.04:737][609]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.54.04:737][609]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.54.05:162][656]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-21.54.05:203][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.08.16-21.54.07:019][844]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.08.16-21.54.08:379][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.08.16-21.54.08:413][997]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default8891D82447798B814558E1BFB3DF468F.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.54.08:470][997]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default_BuiltDataDA4988694448A1EBF7AFA988720F8EF8.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.08.16-21.54.08:489][997]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.16-21.54.08:489][997]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.54.08:489][997]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.08.16-21.54.10:816][265]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.16-21.54.10:827][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.16-21.54.10:828][265]PIE: New page: PIE session: Minimal_Default (Aug 16, 2023, 1:54:10 PM)
+[2023.08.16-21.54.10:852][265]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.16-21.54.10:857][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005008s)
+[2023.08.16-21.54.10:862][265]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.08.16-21.54.10:862][265]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E6A6CE600), frame # 989265
+[2023.08.16-21.54.10:863][265]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E75A11BC0), frame # 989265
+[2023.08.16-21.54.10:863][265]LogPlayLevel: PIE: World Init took: (0.005271s)
+[2023.08.16-21.54.10:863][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010453s)
+[2023.08.16-21.54.10:884][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.08.16-21.54.10:886][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.16-21.54.10:886][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.16-21.54.10:886][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.16-21.54.10:886][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.16-21.54.10:886][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.16-21.54.10:886][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.16-21.54.10:886][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.16-21.54.10:886][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.16-21.54.10:886][265]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.16-21.54.10:886][265]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.16-21.54.10:893][265]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.16-21.54.10:893][265]LogAudioMixer: Display: 1: FrontRight
+[2023.08.16-21.54.10:927][265]LogAudioMixer: Display: Using Audio Device Headset Earphone (2- Astro MixAmp Pro Voice)
+[2023.08.16-21.54.10:927][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.16-21.54.10:927][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.16-21.54.10:927][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.16-21.54.10:927][265]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.16-21.54.10:938][265]LogInit: FAudioDevice initialized.
+[2023.08.16-21.54.10:948][265]LogLoad: Game class is 'GameModeBase'
+[2023.08.16-21.54.10:950][265]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.08.16-17.54.10
+[2023.08.16-21.54.10:950][265]LogWorld: Bringing up level for play took: 0.000657
+[2023.08.16-21.54.10:950][265]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.08.16-21.54.10:952][265]PIE: Server logged in
+[2023.08.16-21.54.10:953][265]PIE: Play in editor total start time 0.13 seconds.
+[2023.08.16-21.54.15:772][839]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.15:935][859]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.15:935][859]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.15:935][859]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.23:540][771]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.23:678][788]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.23:678][788]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.23:678][788]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.24:156][845]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.24:298][862]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.24:303][863]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.24:303][863]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.24:303][863]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.24:444][880]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.24:444][880]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.24:444][880]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.24:448][880]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.24:577][896]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.24:578][896]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.24:578][896]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.24:682][908]LogBlueprintUserMessages: [Minimal_Default_C_17] Hello
+[2023.08.16-21.54.24:682][908]LogVaRest: UVaRestRequestJSON::ProcessRequest(346): Request (urlencoded): GET http://alyamkin.com (check bExtendedLog for additional data)
+[2023.08.16-21.54.25:136][963]LogVaRest: Response (200): 
+JSON(
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Vladimir Alyamkin | ufna.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Vladimir Alyamkin" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ufna.dev/" />
+<meta property="og:url" content="https://ufna.dev/" />
+<meta property="og:site_name" content="ufna.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Vladimir Alyamkin" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Vladimir Alyamkin","name":"ufna.github.io","url":"https://ufna.dev/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=01b0150278d179339feceaa33cda10abc4b61071">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://ufna.dev/">ufna.github.io</a></h1>
+      
+
+      <h3 id="vladimir-alyamkin">Vladimir Alyamkin</h3>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; Making games with Unreal Engine</code></p>
+
+<p>Jack-of-all-trades with more than a decade of Unreal Engine experience, noted by Epic Games with Lifetime Contribution Award 2018. Years of experience in managing teams and building products up to million DAU.</p>
+
+<p>In love with open source. Open for creative collaboration on promising projects.</p>
+
+<ul>
+  <li><a href="/public-talks">Public Talks</a></li>
+  <li><a href="https://www.artstation.com/alyamkin">My Projects</a></li>
+  <li><a href="https://www.unrealengine.com/marketplace/en-US/profile/Vladimir+Alyamkin">UE4 Marketplace</a></li>
+</ul>
+
+<p>Connect with me:</p>
+<ul>
+  <li><a href="https://github.com/ufna">Github</a></li>
+  <li><a href="https://t.me/ufnadev">Telegram</a></li>
+  <li><a href="https://habr.com/ru/users/ufna/posts/">Habr</a></li>
+  <li><a href="https://www.linkedin.com/in/alyamkin/">LinkedIn</a></li>
+</ul>
+
+<p>You have an excellent idea? Hit me.</p>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
+
+)JSON
+[2023.08.16-21.54.25:975][ 63]LogBlueprintUserMessages: [Minimal_Default_C_17] Hello
+[2023.08.16-21.54.25:975][ 63]LogVaRest: UVaRestRequestJSON::ProcessRequest(346): Request (urlencoded): GET http://alyamkin.com (check bExtendedLog for additional data)
+[2023.08.16-21.54.26:097][ 78]LogVaRest: Response (200): 
+JSON(
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Vladimir Alyamkin | ufna.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Vladimir Alyamkin" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ufna.dev/" />
+<meta property="og:url" content="https://ufna.dev/" />
+<meta property="og:site_name" content="ufna.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Vladimir Alyamkin" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Vladimir Alyamkin","name":"ufna.github.io","url":"https://ufna.dev/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=01b0150278d179339feceaa33cda10abc4b61071">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://ufna.dev/">ufna.github.io</a></h1>
+      
+
+      <h3 id="vladimir-alyamkin">Vladimir Alyamkin</h3>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; Making games with Unreal Engine</code></p>
+
+<p>Jack-of-all-trades with more than a decade of Unreal Engine experience, noted by Epic Games with Lifetime Contribution Award 2018. Years of experience in managing teams and building products up to million DAU.</p>
+
+<p>In love with open source. Open for creative collaboration on promising projects.</p>
+
+<ul>
+  <li><a href="/public-talks">Public Talks</a></li>
+  <li><a href="https://www.artstation.com/alyamkin">My Projects</a></li>
+  <li><a href="https://www.unrealengine.com/marketplace/en-US/profile/Vladimir+Alyamkin">UE4 Marketplace</a></li>
+</ul>
+
+<p>Connect with me:</p>
+<ul>
+  <li><a href="https://github.com/ufna">Github</a></li>
+  <li><a href="https://t.me/ufnadev">Telegram</a></li>
+  <li><a href="https://habr.com/ru/users/ufna/posts/">Habr</a></li>
+  <li><a href="https://www.linkedin.com/in/alyamkin/">LinkedIn</a></li>
+</ul>
+
+<p>You have an excellent idea? Hit me.</p>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
+
+)JSON
+[2023.08.16-21.54.26:267][ 98]LogBlueprintUserMessages: [Minimal_Default_C_17] Hello
+[2023.08.16-21.54.26:267][ 98]LogVaRest: UVaRestRequestJSON::ProcessRequest(346): Request (urlencoded): GET http://alyamkin.com (check bExtendedLog for additional data)
+[2023.08.16-21.54.26:405][115]LogVaRest: Response (200): 
+JSON(
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Vladimir Alyamkin | ufna.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Vladimir Alyamkin" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ufna.dev/" />
+<meta property="og:url" content="https://ufna.dev/" />
+<meta property="og:site_name" content="ufna.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Vladimir Alyamkin" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Vladimir Alyamkin","name":"ufna.github.io","url":"https://ufna.dev/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=01b0150278d179339feceaa33cda10abc4b61071">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://ufna.dev/">ufna.github.io</a></h1>
+      
+
+      <h3 id="vladimir-alyamkin">Vladimir Alyamkin</h3>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; Making games with Unreal Engine</code></p>
+
+<p>Jack-of-all-trades with more than a decade of Unreal Engine experience, noted by Epic Games with Lifetime Contribution Award 2018. Years of experience in managing teams and building products up to million DAU.</p>
+
+<p>In love with open source. Open for creative collaboration on promising projects.</p>
+
+<ul>
+  <li><a href="/public-talks">Public Talks</a></li>
+  <li><a href="https://www.artstation.com/alyamkin">My Projects</a></li>
+  <li><a href="https://www.unrealengine.com/marketplace/en-US/profile/Vladimir+Alyamkin">UE4 Marketplace</a></li>
+</ul>
+
+<p>Connect with me:</p>
+<ul>
+  <li><a href="https://github.com/ufna">Github</a></li>
+  <li><a href="https://t.me/ufnadev">Telegram</a></li>
+  <li><a href="https://habr.com/ru/users/ufna/posts/">Habr</a></li>
+  <li><a href="https://www.linkedin.com/in/alyamkin/">LinkedIn</a></li>
+</ul>
+
+<p>You have an excellent idea? Hit me.</p>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
+
+)JSON
+[2023.08.16-21.54.26:434][118]LogBlueprintUserMessages: [Minimal_Default_C_17] Hello
+[2023.08.16-21.54.26:434][118]LogVaRest: UVaRestRequestJSON::ProcessRequest(346): Request (urlencoded): GET http://alyamkin.com (check bExtendedLog for additional data)
+[2023.08.16-21.54.26:547][132]LogVaRest: Response (200): 
+JSON(
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Vladimir Alyamkin | ufna.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Vladimir Alyamkin" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ufna.dev/" />
+<meta property="og:url" content="https://ufna.dev/" />
+<meta property="og:site_name" content="ufna.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Vladimir Alyamkin" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Vladimir Alyamkin","name":"ufna.github.io","url":"https://ufna.dev/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=01b0150278d179339feceaa33cda10abc4b61071">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://ufna.dev/">ufna.github.io</a></h1>
+      
+
+      <h3 id="vladimir-alyamkin">Vladimir Alyamkin</h3>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; Making games with Unreal Engine</code></p>
+
+<p>Jack-of-all-trades with more than a decade of Unreal Engine experience, noted by Epic Games with Lifetime Contribution Award 2018. Years of experience in managing teams and building products up to million DAU.</p>
+
+<p>In love with open source. Open for creative collaboration on promising projects.</p>
+
+<ul>
+  <li><a href="/public-talks">Public Talks</a></li>
+  <li><a href="https://www.artstation.com/alyamkin">My Projects</a></li>
+  <li><a href="https://www.unrealengine.com/marketplace/en-US/profile/Vladimir+Alyamkin">UE4 Marketplace</a></li>
+</ul>
+
+<p>Connect with me:</p>
+<ul>
+  <li><a href="https://github.com/ufna">Github</a></li>
+  <li><a href="https://t.me/ufnadev">Telegram</a></li>
+  <li><a href="https://habr.com/ru/users/ufna/posts/">Habr</a></li>
+  <li><a href="https://www.linkedin.com/in/alyamkin/">LinkedIn</a></li>
+</ul>
+
+<p>You have an excellent idea? Hit me.</p>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
+
+)JSON
+[2023.08.16-21.54.26:601][138]LogBlueprintUserMessages: [Minimal_Default_C_17] Hello
+[2023.08.16-21.54.26:601][138]LogVaRest: UVaRestRequestJSON::ProcessRequest(346): Request (urlencoded): GET http://alyamkin.com (check bExtendedLog for additional data)
+[2023.08.16-21.54.26:705][151]LogVaRest: Response (200): 
+JSON(
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Vladimir Alyamkin | ufna.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Vladimir Alyamkin" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ufna.dev/" />
+<meta property="og:url" content="https://ufna.dev/" />
+<meta property="og:site_name" content="ufna.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Vladimir Alyamkin" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Vladimir Alyamkin","name":"ufna.github.io","url":"https://ufna.dev/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=01b0150278d179339feceaa33cda10abc4b61071">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://ufna.dev/">ufna.github.io</a></h1>
+      
+
+      <h3 id="vladimir-alyamkin">Vladimir Alyamkin</h3>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; Making games with Unreal Engine</code></p>
+
+<p>Jack-of-all-trades with more than a decade of Unreal Engine experience, noted by Epic Games with Lifetime Contribution Award 2018. Years of experience in managing teams and building products up to million DAU.</p>
+
+<p>In love with open source. Open for creative collaboration on promising projects.</p>
+
+<ul>
+  <li><a href="/public-talks">Public Talks</a></li>
+  <li><a href="https://www.artstation.com/alyamkin">My Projects</a></li>
+  <li><a href="https://www.unrealengine.com/marketplace/en-US/profile/Vladimir+Alyamkin">UE4 Marketplace</a></li>
+</ul>
+
+<p>Connect with me:</p>
+<ul>
+  <li><a href="https://github.com/ufna">Github</a></li>
+  <li><a href="https://t.me/ufnadev">Telegram</a></li>
+  <li><a href="https://habr.com/ru/users/ufna/posts/">Habr</a></li>
+  <li><a href="https://www.linkedin.com/in/alyamkin/">LinkedIn</a></li>
+</ul>
+
+<p>You have an excellent idea? Hit me.</p>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
+
+)JSON
+[2023.08.16-21.54.26:759][157]LogBlueprintUserMessages: [Minimal_Default_C_17] Hello
+[2023.08.16-21.54.26:759][157]LogVaRest: UVaRestRequestJSON::ProcessRequest(346): Request (urlencoded): GET http://alyamkin.com (check bExtendedLog for additional data)
+[2023.08.16-21.54.26:872][171]LogVaRest: Response (200): 
+JSON(
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Vladimir Alyamkin | ufna.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Vladimir Alyamkin" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ufna.dev/" />
+<meta property="og:url" content="https://ufna.dev/" />
+<meta property="og:site_name" content="ufna.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Vladimir Alyamkin" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Vladimir Alyamkin","name":"ufna.github.io","url":"https://ufna.dev/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=01b0150278d179339feceaa33cda10abc4b61071">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://ufna.dev/">ufna.github.io</a></h1>
+      
+
+      <h3 id="vladimir-alyamkin">Vladimir Alyamkin</h3>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; Making games with Unreal Engine</code></p>
+
+<p>Jack-of-all-trades with more than a decade of Unreal Engine experience, noted by Epic Games with Lifetime Contribution Award 2018. Years of experience in managing teams and building products up to million DAU.</p>
+
+<p>In love with open source. Open for creative collaboration on promising projects.</p>
+
+<ul>
+  <li><a href="/public-talks">Public Talks</a></li>
+  <li><a href="https://www.artstation.com/alyamkin">My Projects</a></li>
+  <li><a href="https://www.unrealengine.com/marketplace/en-US/profile/Vladimir+Alyamkin">UE4 Marketplace</a></li>
+</ul>
+
+<p>Connect with me:</p>
+<ul>
+  <li><a href="https://github.com/ufna">Github</a></li>
+  <li><a href="https://t.me/ufnadev">Telegram</a></li>
+  <li><a href="https://habr.com/ru/users/ufna/posts/">Habr</a></li>
+  <li><a href="https://www.linkedin.com/in/alyamkin/">LinkedIn</a></li>
+</ul>
+
+<p>You have an excellent idea? Hit me.</p>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
+
+)JSON
+[2023.08.16-21.54.26:926][177]LogBlueprintUserMessages: [Minimal_Default_C_17] Hello
+[2023.08.16-21.54.26:926][177]LogVaRest: UVaRestRequestJSON::ProcessRequest(346): Request (urlencoded): GET http://alyamkin.com (check bExtendedLog for additional data)
+[2023.08.16-21.54.27:063][194]LogVaRest: Response (200): 
+JSON(
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Vladimir Alyamkin | ufna.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Vladimir Alyamkin" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ufna.dev/" />
+<meta property="og:url" content="https://ufna.dev/" />
+<meta property="og:site_name" content="ufna.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Vladimir Alyamkin" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Vladimir Alyamkin","name":"ufna.github.io","url":"https://ufna.dev/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=01b0150278d179339feceaa33cda10abc4b61071">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://ufna.dev/">ufna.github.io</a></h1>
+      
+
+      <h3 id="vladimir-alyamkin">Vladimir Alyamkin</h3>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; Making games with Unreal Engine</code></p>
+
+<p>Jack-of-all-trades with more than a decade of Unreal Engine experience, noted by Epic Games with Lifetime Contribution Award 2018. Years of experience in managing teams and building products up to million DAU.</p>
+
+<p>In love with open source. Open for creative collaboration on promising projects.</p>
+
+<ul>
+  <li><a href="/public-talks">Public Talks</a></li>
+  <li><a href="https://www.artstation.com/alyamkin">My Projects</a></li>
+  <li><a href="https://www.unrealengine.com/marketplace/en-US/profile/Vladimir+Alyamkin">UE4 Marketplace</a></li>
+</ul>
+
+<p>Connect with me:</p>
+<ul>
+  <li><a href="https://github.com/ufna">Github</a></li>
+  <li><a href="https://t.me/ufnadev">Telegram</a></li>
+  <li><a href="https://habr.com/ru/users/ufna/posts/">Habr</a></li>
+  <li><a href="https://www.linkedin.com/in/alyamkin/">LinkedIn</a></li>
+</ul>
+
+<p>You have an excellent idea? Hit me.</p>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
+
+)JSON
+[2023.08.16-21.54.27:158][205]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.27:314][224]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.27:314][224]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.27:314][224]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.27:884][292]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.28:022][309]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.28:023][309]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.28:023][309]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.28:134][322]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.28:264][338]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.28:264][338]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.28:264][338]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.28:284][340]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.28:405][355]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.28:405][355]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.28:405][355]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.28:426][357]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.28:546][372]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.28:547][372]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.28:547][372]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.28:601][378]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.28:722][393]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.28:722][393]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.28:722][393]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.28:751][396]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.28:871][411]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.28:872][411]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.28:872][411]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.28:967][422]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.29:088][437]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.29:088][437]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.29:088][437]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.29:100][438]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.29:230][454]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.29:230][454]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.29:230][454]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.29:267][458]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.29:414][476]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.29:414][476]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.29:414][476]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.29:434][478]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.29:555][493]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.29:555][493]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.29:555][493]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.29:592][497]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.54.29:731][514]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.54.29:731][514]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.54.29:731][514]LogBlueprintUserMessages: [Minimal_Default_C_17] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.54.30:532][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.16-21.54.30:533][603]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.16-21.54.30:533][603]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.08.16-21.54.30:534][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.16-21.54.30:551][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.16-21.54.30:557][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.16-21.54.30:584][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.16-21.54.30:601][603]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E75A11BC0), frame # 991603
+[2023.08.16-21.54.30:601][603]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E6A6CE600), frame # 991603
+[2023.08.16-21.54.30:603][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.08.16-21.54.30:626][604]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.08.16-22.02.14:058][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.08.16-22.02.14:096][ 35]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultDEF4337B487A4E31870D5AAA44399ED1.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.02.14:107][ 35]LogFileHelpers: Saving map 'Minimal_Default' took 0.073
+[2023.08.16-22.02.14:129][ 35]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.02.14:129][ 35]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.02.14:608][ 87]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-22.02.14:651][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.08.16-22.05.21:589][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.08.16-22.05.21:621][595]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default6D04C0D1433A8881A730EA959F5A7EB9.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.05.21:632][595]LogFileHelpers: Saving map 'Minimal_Default' took 0.067
+[2023.08.16-22.05.21:644][595]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.05.21:644][595]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.05.22:687][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.16-22.05.22:717][707]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default289EB8A74395948D9F2F0C8E11BC0461.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.05.22:728][707]LogFileHelpers: Saving map 'Minimal_Default' took 0.062
+[2023.08.16-22.05.22:749][707]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.05.22:749][707]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.05.23:259][764]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-22.05.23:300][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.08.16-22.06.09:850][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.08.16-22.06.09:881][631]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default19AFA0944822A570F0636E8F79A4B734.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.06.09:892][631]LogFileHelpers: Saving map 'Minimal_Default' took 0.066
+[2023.08.16-22.06.09:906][631]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.06.09:906][631]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.06.10:779][726]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-22.06.10:816][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.08.16-22.06.12:910][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2023.08.16-22.06.13:153][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.08.16-22.06.13:185][972]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultBAFE991948D22526AD915DAA4F0ACC89.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.06.13:222][972]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default_BuiltDataD04D2DC34CB460F94958BEB28186A1A0.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.08.16-22.06.13:238][972]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.16-22.06.13:238][972]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.06.13:238][972]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.08.16-22.06.14:797][140]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.16-22.06.14:808][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.16-22.06.14:808][140]PIE: New page: PIE session: Minimal_Default (Aug 16, 2023, 2:06:14 PM)
+[2023.08.16-22.06.14:808][140]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.16-22.06.14:812][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003993s)
+[2023.08.16-22.06.14:813][140]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.08.16-22.06.14:813][140]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022EB3CFD000), frame # 1047140
+[2023.08.16-22.06.14:813][140]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E75423100), frame # 1047140
+[2023.08.16-22.06.14:814][140]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2023.08.16-22.06.14:814][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005205s)
+[2023.08.16-22.06.14:835][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.08.16-22.06.14:836][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.16-22.06.14:836][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.16-22.06.14:836][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.16-22.06.14:836][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.16-22.06.14:836][140]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.16-22.06.14:836][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.16-22.06.14:836][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.16-22.06.14:836][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.16-22.06.14:837][140]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.16-22.06.14:837][140]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.16-22.06.14:843][140]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.16-22.06.14:843][140]LogAudioMixer: Display: 1: FrontRight
+[2023.08.16-22.06.14:864][140]LogAudioMixer: Display: Using Audio Device Headset Earphone (2- Astro MixAmp Pro Voice)
+[2023.08.16-22.06.14:864][140]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.16-22.06.14:864][140]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.16-22.06.14:864][140]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.16-22.06.14:864][140]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.16-22.06.14:875][140]LogInit: FAudioDevice initialized.
+[2023.08.16-22.06.14:880][140]LogLoad: Game class is 'GameModeBase'
+[2023.08.16-22.06.14:881][140]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.08.16-18.06.14
+[2023.08.16-22.06.14:881][140]LogWorld: Bringing up level for play took: 0.000625
+[2023.08.16-22.06.14:881][140]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.08.16-22.06.14:883][140]PIE: Server logged in
+[2023.08.16-22.06.14:884][140]PIE: Play in editor total start time 0.081 seconds.
+[2023.08.16-22.06.18:608][583]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.06.18:987][629]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.06.18:987][629]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-22.06.18:987][629]LogBlueprintUserMessages: [Minimal_Default_C_20] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-22.06.18:988][629]LogBlueprintUserMessages: [Minimal_Default_C_20] Missing client_id or secret.
+[2023.08.16-22.06.18:988][629]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.18:988][629]LogBlueprintUserMessages: [Minimal_Default_C_20] 
+[2023.08.16-22.06.18:988][629]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.21:641][947]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.06.21:787][965]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.06.21:787][965]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-22.06.21:787][965]LogBlueprintUserMessages: [Minimal_Default_C_20] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-22.06.21:787][965]LogBlueprintUserMessages: [Minimal_Default_C_20] Missing client_id or secret.
+[2023.08.16-22.06.21:787][965]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.21:787][965]LogBlueprintUserMessages: [Minimal_Default_C_20] 
+[2023.08.16-22.06.21:787][965]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.24:583][300]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.06.24:720][317]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.06.24:721][317]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-22.06.24:721][317]LogBlueprintUserMessages: [Minimal_Default_C_20] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-22.06.24:721][317]LogBlueprintUserMessages: [Minimal_Default_C_20] Missing client_id or secret.
+[2023.08.16-22.06.24:721][317]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.24:721][317]LogBlueprintUserMessages: [Minimal_Default_C_20] 
+[2023.08.16-22.06.24:721][317]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.27:092][601]LogBlueprintUserMessages: [Minimal_Default_C_20] Hello
+[2023.08.16-22.06.27:092][601]LogVaRest: UVaRestRequestJSON::ProcessRequest(346): Request (urlencoded): GET http://alyamkin.com (check bExtendedLog for additional data)
+[2023.08.16-22.06.27:482][648]LogVaRest: Response (200): 
+JSON(
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Vladimir Alyamkin | ufna.github.io</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Vladimir Alyamkin" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ufna.dev/" />
+<meta property="og:url" content="https://ufna.dev/" />
+<meta property="og:site_name" content="ufna.github.io" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Vladimir Alyamkin" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Vladimir Alyamkin","name":"ufna.github.io","url":"https://ufna.dev/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=01b0150278d179339feceaa33cda10abc4b61071">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://ufna.dev/">ufna.github.io</a></h1>
+      
+
+      <h3 id="vladimir-alyamkin">Vladimir Alyamkin</h3>
+
+<p><code class="language-plaintext highlighter-rouge">&gt; Making games with Unreal Engine</code></p>
+
+<p>Jack-of-all-trades with more than a decade of Unreal Engine experience, noted by Epic Games with Lifetime Contribution Award 2018. Years of experience in managing teams and building products up to million DAU.</p>
+
+<p>In love with open source. Open for creative collaboration on promising projects.</p>
+
+<ul>
+  <li><a href="/public-talks">Public Talks</a></li>
+  <li><a href="https://www.artstation.com/alyamkin">My Projects</a></li>
+  <li><a href="https://www.unrealengine.com/marketplace/en-US/profile/Vladimir+Alyamkin">UE4 Marketplace</a></li>
+</ul>
+
+<p>Connect with me:</p>
+<ul>
+  <li><a href="https://github.com/ufna">Github</a></li>
+  <li><a href="https://t.me/ufnadev">Telegram</a></li>
+  <li><a href="https://habr.com/ru/users/ufna/posts/">Habr</a></li>
+  <li><a href="https://www.linkedin.com/in/alyamkin/">LinkedIn</a></li>
+</ul>
+
+<p>You have an excellent idea? Hit me.</p>
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
+
+)JSON
+[2023.08.16-22.06.29:511][891]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.06.29:666][910]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.06.29:666][910]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-22.06.29:666][910]LogBlueprintUserMessages: [Minimal_Default_C_20] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-22.06.29:666][910]LogBlueprintUserMessages: [Minimal_Default_C_20] Missing client_id or secret.
+[2023.08.16-22.06.29:666][910]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.29:666][910]LogBlueprintUserMessages: [Minimal_Default_C_20] 
+[2023.08.16-22.06.29:666][910]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.32:005][190]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.06.32:144][207]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.06.32:144][207]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-22.06.32:144][207]LogBlueprintUserMessages: [Minimal_Default_C_20] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-22.06.32:144][207]LogBlueprintUserMessages: [Minimal_Default_C_20] Missing client_id or secret.
+[2023.08.16-22.06.32:144][207]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.32:144][207]LogBlueprintUserMessages: [Minimal_Default_C_20] 
+[2023.08.16-22.06.32:145][207]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.35:800][643]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.06.36:025][670]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.06.36:026][670]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-22.06.36:026][670]LogBlueprintUserMessages: [Minimal_Default_C_20] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-22.06.36:026][670]LogBlueprintUserMessages: [Minimal_Default_C_20] Missing client_id or secret.
+[2023.08.16-22.06.36:026][670]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.36:026][670]LogBlueprintUserMessages: [Minimal_Default_C_20] 
+[2023.08.16-22.06.36:026][670]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.06.38:212][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.16-22.06.38:213][925]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.16-22.06.38:213][925]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.08.16-22.06.38:213][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.16-22.06.38:227][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.16-22.06.38:232][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.16-22.06.38:263][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.16-22.06.38:279][925]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E75423100), frame # 1049925
+[2023.08.16-22.06.38:279][925]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022EB3CFD000), frame # 1049925
+[2023.08.16-22.06.38:281][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.08.16-22.06.38:301][926]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.08.16-22.07.44:521][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.08.16-22.07.44:562][122]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default90C18A7E4736DFC9D2A1CDAB65CEB7BC.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.07.44:577][122]LogFileHelpers: Saving map 'Minimal_Default' took 0.079
+[2023.08.16-22.07.44:590][122]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.07.44:590][122]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.08.34:276][989]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.16-22.09.35:219][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.08.16-22.09.35:253][287]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultA09352274A22991F07F4AC8F5E18564D.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.09.35:264][287]LogFileHelpers: Saving map 'Minimal_Default' took 0.068
+[2023.08.16-22.09.35:276][287]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.09.35:276][287]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.09.36:262][399]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-22.09.36:300][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.08.16-22.13.40:499][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.08.16-22.13.40:532][275]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default82CB111C47F60EA010C986A050673E09.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.13.40:543][275]LogFileHelpers: Saving map 'Minimal_Default' took 0.067
+[2023.08.16-22.13.40:561][275]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.13.40:562][275]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.13.43:313][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.16-22.13.43:344][583]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default2A15CF9D47FB0217E07AAF8ACD9238CE.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.13.43:354][583]LogFileHelpers: Saving map 'Minimal_Default' took 0.061
+[2023.08.16-22.13.43:376][583]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.13.43:376][583]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.13.44:089][667]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-22.13.44:128][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.08.16-22.13.49:633][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.08.16-22.13.49:882][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.08.16-22.13.49:913][315]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultD7045C1A448D0C53C8A054BB19D8D54C.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.13.49:948][315]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default_BuiltData9A1670944E9B5AD06E1F2A9BFDF3EAE8.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.08.16-22.13.49:964][315]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.16-22.13.49:964][315]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.13.49:964][315]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.08.16-22.13.50:956][427]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.16-22.13.50:968][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.16-22.13.50:968][427]PIE: New page: PIE session: Minimal_Default (Aug 16, 2023, 2:13:50 PM)
+[2023.08.16-22.13.50:993][427]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.16-22.13.50:998][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004032s)
+[2023.08.16-22.13.50:998][427]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.08.16-22.13.50:998][427]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022ED51E0200), frame # 1071427
+[2023.08.16-22.13.50:998][427]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E7C3B1080), frame # 1071427
+[2023.08.16-22.13.50:999][427]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2023.08.16-22.13.50:999][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005167s)
+[2023.08.16-22.13.51:020][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.08.16-22.13.51:021][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.16-22.13.51:021][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.16-22.13.51:021][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.16-22.13.51:021][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.16-22.13.51:021][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.16-22.13.51:021][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.16-22.13.51:021][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.16-22.13.51:021][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.16-22.13.51:021][427]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.16-22.13.51:021][427]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.16-22.13.51:028][427]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.16-22.13.51:028][427]LogAudioMixer: Display: 1: FrontRight
+[2023.08.16-22.13.51:050][427]LogAudioMixer: Display: Using Audio Device Headset Earphone (2- Astro MixAmp Pro Voice)
+[2023.08.16-22.13.51:050][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.16-22.13.51:050][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.16-22.13.51:050][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.16-22.13.51:050][427]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.16-22.13.51:061][427]LogInit: FAudioDevice initialized.
+[2023.08.16-22.13.51:069][427]LogLoad: Game class is 'GameModeBase'
+[2023.08.16-22.13.51:070][427]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.08.16-18.13.51
+[2023.08.16-22.13.51:071][427]LogWorld: Bringing up level for play took: 0.000679
+[2023.08.16-22.13.51:071][427]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.08.16-22.13.51:073][427]PIE: Server logged in
+[2023.08.16-22.13.51:073][427]PIE: Play in editor total start time 0.111 seconds.
+[2023.08.16-22.13.54:088][785]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.13.54:376][820]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.13.54:376][820]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.13.54:376][820]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.13.54:376][820]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.13.54:376][820]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.13.56:939][127]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.13.57:226][162]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.13.57:227][162]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.13.57:227][162]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.13.57:227][162]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.13.57:227][162]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.13.59:656][453]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.13.59:826][474]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.13.59:827][474]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.13.59:827][474]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.13.59:827][474]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.13.59:827][474]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.00:930][606]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.01:235][643]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.01:235][643]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.01:235][643]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.01:235][643]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.01:235][643]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.01:997][734]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.02:197][758]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.02:202][759]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.02:202][759]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.02:202][759]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.02:202][759]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.02:202][759]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.02:368][779]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.02:368][779]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.02:368][779]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.02:368][779]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.02:368][779]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.02:372][779]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.02:522][797]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.02:551][801]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.02:551][801]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.02:551][801]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.02:551][801]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.02:551][801]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.02:705][819]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.02:810][832]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.02:810][832]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.02:810][832]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.02:810][832]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.02:810][832]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.02:863][838]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.02:952][849]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.02:952][849]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.02:952][849]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.02:952][849]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.02:952][849]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.03:026][858]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.03:026][858]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.03:027][858]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.03:027][858]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.03:027][858]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.03:055][861]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.03:236][883]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.03:236][883]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.03:236][883]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.03:236][883]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.03:236][883]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.03:239][883]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.03:476][912]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.03:477][912]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.03:477][912]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.03:477][912]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.03:477][912]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.04:497][ 34]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.04:672][ 55]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.04:752][ 65]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.04:752][ 65]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.04:752][ 65]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.04:752][ 65]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.04:752][ 65]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.04:847][ 76]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.04:910][ 84]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.04:910][ 84]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.04:910][ 84]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.04:910][ 84]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.04:910][ 84]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.05:005][ 95]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.05:010][ 96]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.05:010][ 96]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.05:010][ 96]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.05:010][ 96]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.05:010][ 96]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.05:155][113]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.14.05:186][117]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.05:186][117]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.05:186][117]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.05:186][117]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.05:186][117]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.05:310][132]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.14.05:310][132]LogBlueprintUserMessages: [Minimal_Default_C_22] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.14.05:310][132]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.05:310][132]LogBlueprintUserMessages: [Minimal_Default_C_22] 
+[2023.08.16-22.14.05:310][132]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.14.07:423][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.16-22.14.07:423][377]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.16-22.14.07:423][377]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.08.16-22.14.07:424][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.16-22.14.07:431][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.16-22.14.07:436][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.16-22.14.07:458][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.16-22.14.07:473][377]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E7C3B1080), frame # 1073377
+[2023.08.16-22.14.07:473][377]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022ED51E0200), frame # 1073377
+[2023.08.16-22.14.07:476][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.08.16-22.14.07:498][378]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.08.16-22.14.20:381][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.08.16-22.14.20:412][885]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default3053882B4F89E4BCD052C79B5E6A516A.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.14.20:423][885]LogFileHelpers: Saving map 'Minimal_Default' took 0.064
+[2023.08.16-22.14.20:434][885]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.14.20:434][885]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.14.24:115][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.08.16-22.14.24:145][299]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default8FFA82044A94185B1C4C519C3A7556F2.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.14.24:156][299]LogFileHelpers: Saving map 'Minimal_Default' took 0.062
+[2023.08.16-22.14.24:166][299]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.14.24:166][299]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.14.24:879][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.16-22.14.24:909][380]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultBD9C142B47A5EC84B9972390AB6A8FF6.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.14.24:919][380]LogFileHelpers: Saving map 'Minimal_Default' took 0.062
+[2023.08.16-22.14.24:930][380]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.14.24:930][380]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.14.28:046][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.16-22.14.28:077][731]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default00C83CAA49DBBEDF95E75DBB68723085.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.14.28:087][731]LogFileHelpers: Saving map 'Minimal_Default' took 0.061
+[2023.08.16-22.14.28:098][731]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.14.28:098][731]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.14.28:945][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.16-22.14.28:977][824]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultB68AC7784859F5A2D76F06887E012D61.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.14.28:987][824]LogFileHelpers: Saving map 'Minimal_Default' took 0.063
+[2023.08.16-22.14.29:009][824]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.14.29:009][824]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.14.29:365][864]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-22.14.29:403][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.08.16-22.14.30:498][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.08.16-22.14.30:528][974]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultFC3595F24AEFE0CA9C3A3D9157CE4895.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.14.30:562][974]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default_BuiltDataA10EE0B04CC24E04D8231D832A9913A3.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.08.16-22.14.30:578][974]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.16-22.14.30:578][974]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.14.30:578][974]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.08.16-22.15.46:516][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.16-22.15.46:548][271]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default9412E982494F276EBEF561A80F5ADDD0.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.15.46:559][271]LogFileHelpers: Saving map 'Minimal_Default' took 0.064
+[2023.08.16-22.15.46:570][271]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.15.46:570][271]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.15.48:212][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.08.16-22.15.48:244][439]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default23A883164516D52948483EA806A8A862.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.15.48:254][439]LogFileHelpers: Saving map 'Minimal_Default' took 0.063
+[2023.08.16-22.15.48:275][439]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.15.48:275][439]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.15.48:733][486]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-22.15.48:771][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.08.16-22.15.50:006][603]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.08.16-22.15.50:198][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.08.16-22.15.50:229][618]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default350544424CFB8EEC0AC5B0B82483B9A6.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.15.50:263][618]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default_BuiltData4D8F26A545E13C109B8D57AA500FD4FB.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.08.16-22.15.50:279][618]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.16-22.15.50:279][618]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.15.50:279][618]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.08.16-22.15.51:761][790]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.16-22.15.51:773][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.16-22.15.51:773][790]PIE: New page: PIE session: Minimal_Default (Aug 16, 2023, 2:15:51 PM)
+[2023.08.16-22.15.51:803][790]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.16-22.15.51:807][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004038s)
+[2023.08.16-22.15.51:808][790]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.08.16-22.15.51:808][790]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022E84339600), frame # 1078790
+[2023.08.16-22.15.51:808][790]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022E7C3B1080), frame # 1078790
+[2023.08.16-22.15.51:808][790]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2023.08.16-22.15.51:808][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005425s)
+[2023.08.16-22.15.51:829][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.08.16-22.15.51:831][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.16-22.15.51:831][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.16-22.15.51:831][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.16-22.15.51:831][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.16-22.15.51:831][790]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.16-22.15.51:831][790]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.16-22.15.51:831][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.16-22.15.51:831][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.16-22.15.51:831][790]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.16-22.15.51:831][790]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.16-22.15.51:838][790]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.16-22.15.51:838][790]LogAudioMixer: Display: 1: FrontRight
+[2023.08.16-22.15.51:858][790]LogAudioMixer: Display: Using Audio Device Headset Earphone (2- Astro MixAmp Pro Voice)
+[2023.08.16-22.15.51:858][790]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.16-22.15.51:858][790]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.16-22.15.51:858][790]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.16-22.15.51:859][790]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.16-22.15.51:870][790]LogInit: FAudioDevice initialized.
+[2023.08.16-22.15.51:876][790]LogLoad: Game class is 'GameModeBase'
+[2023.08.16-22.15.51:877][790]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.08.16-18.15.51
+[2023.08.16-22.15.51:877][790]LogWorld: Bringing up level for play took: 0.000656
+[2023.08.16-22.15.51:877][790]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.08.16-22.15.51:879][790]PIE: Server logged in
+[2023.08.16-22.15.51:880][790]PIE: Play in editor total start time 0.111 seconds.
+[2023.08.16-22.15.52:959][916]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.15.53:322][960]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.15.53:322][960]LogBlueprintUserMessages: [Minimal_Default_C_24] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.15.53:322][960]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.15.53:322][960]LogBlueprintUserMessages: [Minimal_Default_C_24] 
+[2023.08.16-22.15.53:322][960]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.15.59:019][487]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-22.15.59:215][511]LogVaRest: Response (401): 
+JSON(
+{"reasons":["API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade"],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-22.15.59:215][511]LogBlueprintUserMessages: [Minimal_Default_C_24] API Access requires an Enterprise plan. Contact team@replicastudios.com to upgrade
+[2023.08.16-22.15.59:215][511]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.15.59:215][511]LogBlueprintUserMessages: [Minimal_Default_C_24] 
+[2023.08.16-22.15.59:215][511]LogVaRest: Warning: No field with name access_token of type String
+[2023.08.16-22.16.58:668][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.16-22.16.58:668][574]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.16-22.16.58:668][574]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.08.16-22.16.58:669][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.16-22.16.58:677][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.16-22.16.58:682][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.16-22.16.58:703][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.16-22.16.58:719][574]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022E7C3B1080), frame # 1081574
+[2023.08.16-22.16.58:719][574]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022E84339600), frame # 1081574
+[2023.08.16-22.16.58:722][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.08.16-22.16.58:746][575]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.08.16-22.17.06:132][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.08.16-22.17.06:162][417]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultBEAEB6C24B3BF719060BC992EDE7CBD2.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.17.06:173][417]LogFileHelpers: Saving map 'Minimal_Default' took 0.064
+[2023.08.16-22.17.06:185][417]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.17.06:185][417]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.17.06:829][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.08.16-22.17.06:859][489]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default2667926147B0F93F900CD8BECB6F9025.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.17.06:869][489]LogFileHelpers: Saving map 'Minimal_Default' took 0.062
+[2023.08.16-22.17.06:880][489]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.17.06:880][489]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.17.08:279][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.08.16-22.17.08:309][647]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default441655AD45DBE6268B9E6FAFA52AD41F.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.17.08:319][647]LogFileHelpers: Saving map 'Minimal_Default' took 0.061
+[2023.08.16-22.17.08:340][647]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-22.17.08:340][647]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.17.08:840][699]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-22.17.08:880][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.08.16-22.17.10:066][826]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.08.16-22.17.10:247][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.08.16-22.17.10:278][839]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default1C2F87B04FDA5D678326F0AC7BC40910.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-22.17.10:312][839]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default_BuiltData1F7FB32B48742520A6F0FFB5A00DA2BF.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.08.16-22.17.10:328][839]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.16-22.17.10:328][839]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-22.17.10:328][839]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
