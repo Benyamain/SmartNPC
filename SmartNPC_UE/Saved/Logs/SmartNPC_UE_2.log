@@ -864,3 +864,421 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.08.07-17.13.41:382][729]LogFileHelpers: Saving map 'Minimal_Default' took 0.050
 [2023.08.07-17.13.41:398][729]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.08.07-17.13.41:398][729]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.08-23.18.16:047][500]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2023.08.08-23.21.36:168][ 96]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2023.08.09-01.23.58:421][964]LogTemp: Resetting audio stream to device id 
+[2023.08.09-01.23.58:448][964]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.09-01.23.58:448][964]LogAudioMixer: Display: 1: FrontRight
+[2023.08.09-01.24.00:429][970]LogTemp: Resetting audio stream to device id 
+[2023.08.09-01.24.00:448][970]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.09-01.24.00:448][970]LogAudioMixer: Display: 1: FrontRight
+[2023.08.09-20.04.47:390][971]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.08.09-20.04.47:391][971]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.09-20.04.47:412][971]LogTemp: Resetting audio stream to device id 
+[2023.08.09-20.04.47:460][971]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.09-20.04.47:460][971]LogAudioMixer: Display: 1: FrontRight
+[2023.08.09-20.04.47:732][973]LogHttp: Warning: 0000022E942BCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.09-20.04.47:732][973]LogHttp: Warning: 0000022E942BCF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.08.09-20.04.47:732][973]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 0 (Connection 757 seems to be dead!)
+[2023.08.09-20.04.47:732][973]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 1 (Closing connection 757)
+[2023.08.09-20.04.47:732][973]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.08.09-20.04.47:732][973]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 3 (Closing connection 758)
+[2023.08.09-20.04.48:066][974]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2023.08.09-20.04.48:566][975]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.09-20.04.48:566][975]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.09-20.04.48:566][975]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.09-20.04.48:735][975]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.09-20.04.50:583][981]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.09-20.04.50:583][981]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.09-20.04.50:583][981]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.09-20.04.50:740][981]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.09-20.04.52:596][987]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.09-20.04.52:597][987]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.09-20.04.52:597][987]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.09-20.04.52:748][987]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.09-20.04.54:608][993]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.09-20.04.54:608][993]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.09-20.04.54:608][993]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.09-20.04.54:752][993]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.09-20.43.38:185][913]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2023.08.09-23.24.29:944][651]LogTemp: Resetting audio stream to device id 
+[2023.08.09-23.24.29:976][651]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.09-23.24.29:976][651]LogAudioMixer: Display: 1: FrontRight
+[2023.08.09-23.50.13:138][656]LogTemp: Resetting audio stream to device id 
+[2023.08.09-23.50.13:171][656]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.09-23.50.13:171][656]LogAudioMixer: Display: 1: FrontRight
+[2023.08.09-23.50.14:333][657]LogTemp: Resetting audio stream to device id 
+[2023.08.09-23.50.14:379][657]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.09-23.50.14:380][657]LogAudioMixer: Display: 1: FrontRight
+[2023.08.09-23.50.16:886][665]LogHttp: Warning: 0000022E942BCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.09-23.50.16:886][665]LogHttp: Warning: 0000022E942BCF00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.08.09-23.50.16:886][665]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22e2112ff70 [can pipeline])
+[2023.08.09-23.50.16:886][665]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 1 (Re-using existing connection! (#829) with host datarouter.ol.epicgames.com)
+[2023.08.09-23.50.16:886][665]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.219.135.99) port 443 (#829))
+[2023.08.09-23.50.16:886][665]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.08.09-23.50.16:886][665]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.08.09-23.50.16:886][665]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.08.09-23.50.16:886][665]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.08.09-23.50.16:886][665]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 7 (Closing connection 829)
+[2023.08.09-23.50.17:219][666]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2023.08.09-23.54.08:139][353]LogTemp: Resetting audio stream to device id 
+[2023.08.09-23.54.08:160][353]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.09-23.54.08:160][353]LogAudioMixer: Display: 1: FrontRight
+[2023.08.09-23.54.09:805][358]LogTemp: Resetting audio stream to device id 
+[2023.08.09-23.54.09:823][358]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.09-23.54.09:823][358]LogAudioMixer: Display: 1: FrontRight
+[2023.08.10-03.15.44:606][359]LogTemp: Resetting audio stream to device id 
+[2023.08.10-03.15.44:644][359]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.10-03.15.44:644][359]LogAudioMixer: Display: 1: FrontRight
+[2023.08.10-03.15.44:968][360]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.08.10-03.15.48:315][371]LogHttp: Warning: 0000022E942BCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.10-03.15.48:315][371]LogHttp: Warning: 0000022E942BCF00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.08.10-03.15.48:315][371]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22e2112ff70 [can pipeline])
+[2023.08.10-03.15.48:315][371]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 1 (Re-using existing connection! (#830) with host datarouter.ol.epicgames.com)
+[2023.08.10-03.15.48:315][371]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.207.119.117) port 443 (#830))
+[2023.08.10-03.15.48:315][371]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.08.10-03.15.48:315][371]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.08.10-03.15.48:315][371]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.08.10-03.15.48:315][371]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.08.10-03.15.48:315][371]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 7 (Closing connection 830)
+[2023.08.10-03.15.48:649][372]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2023.08.10-05.45.07:050][ 55]LogTemp: Resetting audio stream to device id 
+[2023.08.10-05.45.07:071][ 55]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.10-05.45.07:071][ 55]LogAudioMixer: Display: 1: FrontRight
+[2023.08.10-14.49.01:090][ 61]LogTemp: Resetting audio stream to device id 
+[2023.08.10-14.49.01:131][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.10-14.49.01:131][ 61]LogAudioMixer: Display: 1: FrontRight
+[2023.08.10-14.49.03:149][ 62]LogTemp: Resetting audio stream to device id 
+[2023.08.10-14.49.03:186][ 62]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.10-14.49.03:186][ 62]LogAudioMixer: Display: 1: FrontRight
+[2023.08.10-14.49.06:780][ 70]LogHttp: Warning: 0000022E942BCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.10-14.49.06:780][ 70]LogHttp: Warning: 0000022E942BCF00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.08.10-14.49.06:780][ 70]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22e2112ff70 [can pipeline])
+[2023.08.10-14.49.06:780][ 70]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 1 (Re-using existing connection! (#881) with host datarouter.ol.epicgames.com)
+[2023.08.10-14.49.06:780][ 70]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.201.139.87) port 443 (#881))
+[2023.08.10-14.49.06:781][ 70]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.08.10-14.49.06:781][ 70]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.08.10-14.49.06:781][ 70]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.08.10-14.49.06:781][ 70]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.08.10-14.49.06:781][ 70]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 7 (Closing connection 881)
+[2023.08.10-14.49.06:781][ 70]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2023.08.10-17.22.48:043][526]LogTemp: Resetting audio stream to device id 
+[2023.08.10-17.22.48:064][526]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.10-17.22.48:064][526]LogAudioMixer: Display: 1: FrontRight
+[2023.08.10-17.22.51:393][536]LogTemp: Resetting audio stream to device id 
+[2023.08.10-17.22.51:412][536]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.10-17.22.51:412][536]LogAudioMixer: Display: 1: FrontRight
+[2023.08.11-00.40.20:201][537]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.08.11-00.40.20:222][537]LogTemp: Resetting audio stream to device id 
+[2023.08.11-00.40.20:267][537]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.11-00.40.20:267][537]LogAudioMixer: Display: 1: FrontRight
+[2023.08.11-00.40.25:233][553]LogHttp: Warning: 0000022E942BCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.11-00.40.25:234][553]LogHttp: Warning: 0000022E942BCF00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.08.11-00.40.25:234][553]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22e2112ff70 [can pipeline])
+[2023.08.11-00.40.25:234][553]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 1 (Re-using existing connection! (#938) with host datarouter.ol.epicgames.com)
+[2023.08.11-00.40.25:234][553]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.45.220.75) port 443 (#938))
+[2023.08.11-00.40.25:234][553]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.08.11-00.40.25:234][553]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.08.11-00.40.25:234][553]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.08.11-00.40.25:234][553]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.08.11-00.40.25:234][553]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 7 (Closing connection 938)
+[2023.08.11-00.40.25:567][554]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2023.08.11-00.49.50:917][243]LogTemp: Resetting audio stream to device id 
+[2023.08.11-00.49.50:941][243]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.11-00.49.50:941][243]LogAudioMixer: Display: 1: FrontRight
+[2023.08.11-00.49.53:594][251]LogTemp: Resetting audio stream to device id 
+[2023.08.11-00.49.53:613][251]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.11-00.49.53:613][251]LogAudioMixer: Display: 1: FrontRight
+[2023.08.14-17.58.24:094][252]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.14-17.58.24:139][252]LogTemp: Resetting audio stream to device id 
+[2023.08.14-17.58.24:181][252]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.14-17.58.24:181][252]LogAudioMixer: Display: 1: FrontRight
+[2023.08.14-17.58.24:439][254]LogHttp: Warning: 0000022E942BCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.14-17.58.24:439][254]LogHttp: Warning: 0000022E942BCF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.08.14-17.58.24:439][254]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 0 (Connection 940 seems to be dead!)
+[2023.08.14-17.58.24:439][254]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 1 (Closing connection 940)
+[2023.08.14-17.58.24:439][254]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.08.14-17.58.24:439][254]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 3 (Closing connection 941)
+[2023.08.14-17.58.24:439][254]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2023.08.14-17.58.25:787][255]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.14-17.58.25:787][255]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.14-17.58.25:788][255]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.14-17.58.25:947][255]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.14-17.58.27:807][261]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.14-17.58.27:807][261]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.14-17.58.27:807][261]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.14-17.58.27:966][261]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.14-17.58.29:822][267]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.14-17.58.29:822][267]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.14-17.58.29:822][267]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.14-17.58.30:763][267]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.14-19.11.09:531][264]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2023.08.14-23.28.32:328][261]LogTemp: Resetting audio stream to device id 
+[2023.08.14-23.28.32:361][261]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.14-23.28.32:362][261]LogAudioMixer: Display: 1: FrontRight
+[2023.08.14-23.28.35:339][270]LogTemp: Resetting audio stream to device id 
+[2023.08.14-23.28.35:359][270]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.14-23.28.35:359][270]LogAudioMixer: Display: 1: FrontRight
+[2023.08.15-03.54.57:114][271]LogTemp: Resetting audio stream to device id 
+[2023.08.15-03.54.57:161][271]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.15-03.54.57:161][271]LogAudioMixer: Display: 1: FrontRight
+[2023.08.15-03.55.01:973][284]LogHttp: Warning: 0000022E942BCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.15-03.55.01:974][284]LogHttp: Warning: 0000022E942BCF00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.08.15-03.55.01:974][284]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x22e2112ff70 [can pipeline])
+[2023.08.15-03.55.01:974][284]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 1 (Re-using existing connection! (#1039) with host datarouter.ol.epicgames.com)
+[2023.08.15-03.55.01:974][284]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.231.97.128) port 443 (#1039))
+[2023.08.15-03.55.01:974][284]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.08.15-03.55.01:974][284]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.08.15-03.55.01:974][284]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.08.15-03.55.01:974][284]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.08.15-03.55.01:974][284]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 7 (Closing connection 1039)
+[2023.08.15-03.55.01:974][284]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2023.08.15-06.02.04:280][985]LogTemp: Resetting audio stream to device id 
+[2023.08.15-06.02.04:299][985]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.15-06.02.04:299][985]LogAudioMixer: Display: 1: FrontRight
+[2023.08.15-06.02.07:625][995]LogTemp: Resetting audio stream to device id 
+[2023.08.15-18.03.27:520][995]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.15-18.03.27:520][995]LogAudioMixer: Display: 1: FrontRight
+[2023.08.15-18.03.29:659][996]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.15-18.03.29:679][996]LogTemp: Resetting audio stream to device id 
+[2023.08.15-18.03.29:731][996]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.15-18.03.29:731][996]LogAudioMixer: Display: 1: FrontRight
+[2023.08.15-18.03.30:008][998]LogHttp: Warning: 0000022E942BCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.15-18.03.30:008][998]LogHttp: Warning: 0000022E942BCF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.08.15-18.03.30:008][998]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 0 (Connection 1080 seems to be dead!)
+[2023.08.15-18.03.30:008][998]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 1 (Closing connection 1080)
+[2023.08.15-18.03.30:008][998]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.08.15-18.03.30:008][998]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 3 (Closing connection 1081)
+[2023.08.15-18.03.30:008][998]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2023.08.15-18.03.30:858][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.15-18.03.30:858][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.15-18.03.30:858][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.15-18.03.31:013][  0]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.15-18.03.32:874][  6]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.15-18.03.32:874][  6]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.15-18.03.32:874][  6]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.15-18.03.33:099][  6]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.15-18.03.35:703][ 12]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.15-18.03.35:703][ 12]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.15-18.03.35:703][ 12]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.15-18.03.35:948][ 12]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.15-23.15.51:465][876]LogTemp: Resetting audio stream to device id 
+[2023.08.15-23.15.51:489][876]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.15-23.15.51:489][876]LogAudioMixer: Display: 1: FrontRight
+[2023.08.15-23.15.54:142][884]LogTemp: Resetting audio stream to device id 
+[2023.08.15-23.15.54:163][884]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.15-23.15.54:163][884]LogAudioMixer: Display: 1: FrontRight
+[2023.08.16-18.16.11:881][885]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.16-18.16.12:160][885]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.08.16-18.16.12:185][885]LogTemp: Resetting audio stream to device id 
+[2023.08.16-18.16.12:231][885]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.16-18.16.12:231][885]LogAudioMixer: Display: 1: FrontRight
+[2023.08.16-18.16.12:504][887]LogHttp: Warning: 0000022E942BCF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.16-18.16.12:504][887]LogHttp: Warning: 0000022E942BCF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.08.16-18.16.12:504][887]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 0 (Connection 1178 seems to be dead!)
+[2023.08.16-18.16.12:504][887]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 1 (Closing connection 1178)
+[2023.08.16-18.16.12:504][887]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.08.16-18.16.12:504][887]LogHttp: Warning: 0000022E942BCF00: libcurl info message cache 3 (Closing connection 1179)
+[2023.08.16-18.16.12:836][888]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B36D5BA46-4730-5EBE-BA37-4BAA6F65FF2E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=1128c54f424977543ed5cb84d272b075%7Ca56fffad34964f85b76a2086c5dc5626%7C2f3f25f4-4f6e-43cc-92d1-3f2df60901e0&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2023.08.16-18.16.13:450][889]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.16-18.16.13:450][889]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.16-18.16.13:450][889]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.16-18.16.13:509][889]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.16-18.16.15:366][895]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.16-18.16.15:366][895]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.16-18.16.15:366][895]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.16-18.16.15:519][895]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.16-18.16.17:380][901]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.16-18.16.17:380][901]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.16-18.16.17:380][901]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.16-18.16.17:525][901]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.16-18.16.18:801][903]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2023.08.16-18.16.18:801][903]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2023.08.16-18.16.18:801][903]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.08.16-18.16.18:817][903]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.08.16-18.16.19:793][906]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2023.08.16-20.55.19:465][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.08.16-20.55.19:565][583]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default_Auto16D49172745D97F42543A588719A46442.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2023.08.16-20.55.19:571][583]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.165
+[2023.08.16-20.55.19:572][583]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.165
+[2023.08.16-21.04.27:198][613]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.16-21.05.00:706][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.08.16-21.05.00:737][493]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default8D70C2E240CEF2B994FDB9BA108876D4.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.05.00:751][493]LogFileHelpers: Saving map 'Minimal_Default' took 0.068
+[2023.08.16-21.05.00:776][493]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.05.00:776][493]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.05.00:907][507]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-21.05.00:956][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.08.16-21.07.46:006][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.08.16-21.07.46:035][627]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default480E4D3D4CAE4A77D4D5CD837779F010.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.07.46:046][627]LogFileHelpers: Saving map 'Minimal_Default' took 0.063
+[2023.08.16-21.07.46:064][627]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.07.46:064][627]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.07.46:651][696]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-21.07.46:655][696]LogBlueprint: Error: [Compiler PersistentLevel.Minimal_Default] This blueprint (self) is not a VaRestRequestJSON, therefore ' Target ' must have a connection.
+[2023.08.16-21.07.46:656][696]LogBlueprint: Error: [Compiler PersistentLevel.Minimal_Default] Event Dispatcher pin is not connected  Bind Event to On Request Complete
+[2023.08.16-21.07.46:702][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.08.16-21.07.46:767][696]LogSlate: Took 0.000511 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.08.16-21.12.40:048][871]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.16-21.12.47:379][301]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.16-21.13.01:440][380]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.16-21.13.06:574][969]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.16-21.13.30:542][577]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.16-21.13.41:791][162]LogSlate: Window 'Tutorials' being destroyed
+[2023.08.16-21.19.09:285][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.08.16-21.19.09:319][292]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default_Auto27CB2EC794AAE2322B185C7AA26CAD542.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2023.08.16-21.19.09:320][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.058
+[2023.08.16-21.19.09:320][292]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.058
+[2023.08.16-21.20.32:358][425]LogEditorTransaction: Undo Add Node
+[2023.08.16-21.26.02:438][939]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-21.26.02:480][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.08.16-21.26.03:155][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.08.16-21.26.03:190][  7]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultA375D6E2483311F8CA7670BA940C7B0F.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.26.03:200][  7]LogFileHelpers: Saving map 'Minimal_Default' took 0.064
+[2023.08.16-21.26.03:211][  7]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.26.03:211][  7]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.26.06:239][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.08.16-21.26.06:272][361]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultBEB79EF147A5EDED2EEA76BB4E1BE609.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.26.06:282][361]LogFileHelpers: Saving map 'Minimal_Default' took 0.061
+[2023.08.16-21.26.06:292][361]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.26.06:292][361]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.26.12:527][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.08.16-21.26.12:569][438]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default419F93C248CA197D5503BC902987952F.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.26.12:580][438]LogFileHelpers: Saving map 'Minimal_Default' took 0.074
+[2023.08.16-21.26.12:589][438]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.26.12:589][438]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.26.12:971][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.16-21.26.13:007][478]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default63BC4F804D93073D58E82EA5C8ADF379.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.26.13:017][478]LogFileHelpers: Saving map 'Minimal_Default' took 0.064
+[2023.08.16-21.26.13:028][478]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.26.13:028][478]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.26.13:498][530]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-21.26.13:534][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.08.16-21.32.22:756][194]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.24:097][305]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.24:924][399]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.25:567][471]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.26:517][579]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.28:838][852]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.29:665][946]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.30:126][996]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.30:689][ 56]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.31:965][204]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.32:359][246]LogEditorTransaction: Undo Move Node
+[2023.08.16-21.32.33:119][332]LogEditorTransaction: Undo Add Node
+[2023.08.16-21.33.24:256][360]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.16-21.33.33:988][486]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-21.33.33:992][486]LogBlueprint: Error: [Compiler PersistentLevel.Minimal_Default] This blueprint (self) is not a VaRestRequestJSON, therefore ' Target ' must have a connection.
+[2023.08.16-21.33.34:023][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.08.16-21.33.34:507][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.08.16-21.33.34:543][526]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultB2EFED1B40552D180D56CC955A13A357.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.33.34:553][526]LogFileHelpers: Saving map 'Minimal_Default' took 0.066
+[2023.08.16-21.33.34:569][526]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.33.34:569][526]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.34.17:305][649]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-21.34.17:348][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.08.16-21.34.18:153][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.08.16-21.34.18:186][733]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultC4AFF914403C8C2C69D2A58B4D38AF57.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.34.18:196][733]LogFileHelpers: Saving map 'Minimal_Default' took 0.063
+[2023.08.16-21.34.18:214][733]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.34.18:214][733]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.36.12:944][840]BlueprintLog: New page: Compile Minimal_Default
+[2023.08.16-21.36.12:985][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.08.16-21.36.13:316][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.08.16-21.36.13:349][866]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_Default8142D58D44CE748D8C59CFA7273A870E.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.36.13:359][866]LogFileHelpers: Saving map 'Minimal_Default' took 0.060
+[2023.08.16-21.36.13:377][866]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.36.13:377][866]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.08.16-21.36.25:592][378]LogTemp: Repeating last play command: Selected Viewport
+[2023.08.16-21.36.25:612][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.16-21.36.25:625][378]PIE: New page: PIE session: Minimal_Default (Aug 16, 2023, 1:36:25 PM)
+[2023.08.16-21.36.25:638][378]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.08.16-21.36.25:642][378]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.08.16-21.36.25:644][378]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.16-21.36.25:684][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039787s)
+[2023.08.16-21.36.25:717][378]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.08.16-21.36.25:719][378]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000022EB14E1200), frame # 966378
+[2023.08.16-21.36.25:720][378]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000022EA7817600), frame # 966378
+[2023.08.16-21.36.25:724][378]LogPlayLevel: PIE: World Init took: (0.039457s)
+[2023.08.16-21.36.25:724][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.080603s)
+[2023.08.16-21.36.25:744][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.08.16-21.36.25:750][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.16-21.36.25:750][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.16-21.36.25:750][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.16-21.36.25:750][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.16-21.36.25:750][378]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.16-21.36.25:750][378]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.08.16-21.36.25:750][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.16-21.36.25:750][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.16-21.36.25:753][378]LogAudio: Display: Using built-in audio occlusion.
+[2023.08.16-21.36.25:753][378]LogAudioMixer: Display: Initializing audio mixer.
+[2023.08.16-21.36.25:761][378]LogAudioMixer: Display: 0: FrontLeft
+[2023.08.16-21.36.25:761][378]LogAudioMixer: Display: 1: FrontRight
+[2023.08.16-21.36.25:785][378]LogAudioMixer: Display: Using Audio Device Headset Earphone (2- Astro MixAmp Pro Voice)
+[2023.08.16-21.36.25:786][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.16-21.36.25:787][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.16-21.36.25:787][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.16-21.36.25:789][378]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.08.16-21.36.25:798][378]LogInit: FAudioDevice initialized.
+[2023.08.16-21.36.25:822][378]LogLoad: Game class is 'GameModeBase'
+[2023.08.16-21.36.25:837][378]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.08.16-17.36.25
+[2023.08.16-21.36.25:839][378]LogWorld: Bringing up level for play took: 0.010615
+[2023.08.16-21.36.25:842][378]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2023.08.16-21.36.25:884][378]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0042 seconds. Added 20 classes and 0 folders.
+[2023.08.16-21.36.25:894][378]PIE: Server logged in
+[2023.08.16-21.36.25:896][378]PIE: Play in editor total start time 0.294 seconds.
+[2023.08.16-21.36.33:287][618]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.36.35:105][836]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.36.35:291][859]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.36.35:292][859]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.36.35:292][859]LogBlueprintUserMessages: [Minimal_Default_C_16] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.36.35:416][874]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.36.35:416][874]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.36.35:416][874]LogBlueprintUserMessages: [Minimal_Default_C_16] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.36.42:013][663]LogVaRest: UVaRestRequestJSON::ProcessRequest(391): Request (url body): POST https://api.replicastudios.com/auth (check bExtendedLog for additional data)
+[2023.08.16-21.36.42:150][680]LogVaRest: Response (401): 
+JSON(
+{"reasons":["Missing client_id or secret."],"exception":"AuthenticationFailed"}
+)JSON
+[2023.08.16-21.36.42:150][680]LogVaRest: Warning: UVaRestRequestJSON::GetResponseContentAsString(584): Response content string is cached
+[2023.08.16-21.36.42:150][680]LogBlueprintUserMessages: [Minimal_Default_C_16] {
+	"reasons": [
+		"Missing client_id or secret."
+	],
+	"exception": "AuthenticationFailed"
+}
+[2023.08.16-21.36.48:060][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.16-21.36.48:060][382]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.08.16-21.36.48:063][382]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.08.16-21.36.48:063][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.16-21.36.48:074][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.16-21.36.48:079][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.16-21.36.48:106][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.16-21.36.48:174][382]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000022EA7817600), frame # 968382
+[2023.08.16-21.36.48:175][382]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000022EB14E1200), frame # 968382
+[2023.08.16-21.36.48:180][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.08.16-21.36.48:202][383]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.08.16-21.36.50:000][597]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.08.16-21.36.50:791][684]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.08.16-21.36.55:409][998]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.08.16-21.37.40:301][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.08.16-21.37.40:335][251]LogSavePackage: Moving '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Saved/Minimal_DefaultE94999BF43B98BFC952372AB74BAEE10.tmp' to '../../../../../../Users/benj/SmartNPC/SmartNPC_UE/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.08.16-21.37.40:345][251]LogFileHelpers: Saving map 'Minimal_Default' took 0.079
+[2023.08.16-21.37.40:357][251]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.08.16-21.37.40:357][251]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
